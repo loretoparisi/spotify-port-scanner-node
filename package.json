@@ -33,6 +33,7 @@
   "keywords": [],
   "dependencies": {
     "request": "^2.67.0",
+    "wintools" : ">=0.1.0",
     "async": "0.1.15"
   }
 }
