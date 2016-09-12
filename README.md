@@ -53,8 +53,8 @@ As soon as the client is connected, to get the host application instance and que
   });
   ```
   
-  ### The host protocol
-  This is an example of host application protocol.
+### The host protocol
+This is an example of host application protocol.
 
 The response status contains the following fields
 ```json
