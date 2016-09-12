@@ -1,9 +1,8 @@
 {
   "name": "spotify-port-scanner-node",
-  "description": "Node tool to scan for Spotify application listening ports",
-  "version": "1.0.1",
+  "description": "This node module will connect to Spotify desktop application using the `spotilocal` protocol with automatic port detection of the host.",
+  "version": "1.0.2",
   "homepage": "https://github.com/loretoparisi/spotify-port-scanner-node",
-  "private": true,
   "author": {
     "name": "Loreto Parisi",
     "email": "loretoparisi@gmail.com"
