@@ -9,7 +9,7 @@
 var SpotifySDK = require('../lib/index');
 var client = new SpotifySDK.SpotifyClient({ debug : true }); // init with defaults
 client.connect({
-  lowPort : 3000,
+  lowPort : 4000,
   highPort : 5000
 })
 .then(() => {

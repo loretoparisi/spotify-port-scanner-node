@@ -1,8 +1,6 @@
 ## spotify-port-scanner-node
 This node module will connect to Spotify desktop application using the `spotilocal` protocol with automatic port detection of the host. This module uses the node module [node-spotify-webhelper](https://github.com/nadavbar/node-spotify-webhelper) to communicate to the host application.
 
-NOTE. At this time the module patches the `node-spotify-webhelper` due to missing api needed here.
-
 ### How to install
 To install this module via `npm` type
 
